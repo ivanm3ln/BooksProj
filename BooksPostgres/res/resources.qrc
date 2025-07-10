@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/Windows">
+        <file>MainWindow.qml</file>
+        <file>WindowBooks.qml</file>
+        <file>WindowBookInsert.qml</file>
+        <file>WindowBookUpdate.qml</file>
+        <file>WindowDelete.qml</file>
+        <file>WindowGenre.qml</file>
+        <file>WindowGenreInsert.qml</file>
+        <file>WindowGenreUpdate.qml</file>
+        <file>WindowAuthor.qml</file>
+        <file>WindowAuthorInsert.qml</file>
+        <file>WindowAuthorUpdate.qml</file>
+    </qresource>
+    <qresource prefix="/CustomItems">
+        <file>CustomCellItem.qml</file>
+    </qresource>
+    <qresource prefix="/Forms">
+        <file>BooksForm.qml</file>
+        <file>GenreForm.qml</file>
+        <file>AuthorForm.qml</file>
+    </qresource>
+</RCC>
